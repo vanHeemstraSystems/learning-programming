@@ -7,27 +7,6 @@
     "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-programming-use-cases/"
   },
   {
-    "objectID": "themes.html",
-    "href": "themes.html",
-    "title": "Themes",
-    "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-programming-themes/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Programming",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
     "title": "Table of contents",
@@ -40,5 +19,33 @@
     "title": "Initiative",
     "section": "",
     "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-programming-initiative/"
+  },
+  {
+    "objectID": "REFERENCES.html",
+    "href": "REFERENCES.html",
+    "title": "References",
+    "section": "",
+    "text": "References\n\nThe Valley of Code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning - Programming",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Themes",
+    "section": "",
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-programming-themes/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
